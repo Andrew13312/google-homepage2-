@@ -1,0 +1,112 @@
+body,div,a{
+    margin: 0px;
+    padding: 0px;
+}
+#header {
+    float: right;
+  }
+#header a {
+    margin-top: 8px;
+    float: left;
+    text-align: center;
+    padding: 14px 13px;
+    text-decoration: none;
+    color: #666;
+    font-size: 15px;
+}
+ #header #buttonSign{ 
+    border-radius: 4px;
+    background-color: #1a73e8;
+     color: #f2f2f2;
+     margin-left: 5px;
+     margin-top: 13px;
+     margin-right: 18px;
+     padding: 10px 28px;
+}
+#content{
+    clear: right;
+}
+#logo img {
+     display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#content #searchh{
+    margin-top: 22px;
+    margin-left: auto;
+    margin-right: auto ;
+    width: 580px;
+    height: 50px;
+}
+#content #searchh form {
+height: 100%;
+}
+#content #searchh form input{
+    border-color: #dfe1e5;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
+#bts ul{
+   margin: 0 auto;
+}
+#content #bts {
+    width: 350px;
+    margin: auto ;
+}
+#bts ul li {
+    margin-right: auto;
+    margin-left: auto;
+    display: inline-block;
+    height: 30px;
+    padding: 25px 7px;
+}
+#bts ul li button{
+    width: 125px;
+    height: 30px;
+}
+ #wrapper #footer {
+    color: #85758d;
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background-color: #f2f2f2;/* Цвет фона */ /* Цвет текста */
+    width: 100%;
+}
+#wrapper #footer .foottr{
+    height: 50px;
+}
+#wrapper #footer #footter{
+    display: block;
+}
+#wrapper #footer #footter p {
+    margin: 0;
+    padding-top: 7spx;
+    padding-left: 20px;
+}
+#footer .foottr {
+    position: relative;
+    display: block;
+}
+#foot {
+    position: absolute;
+    bottom: 5px;
+}
+#footer .foottr a {
+    text-align: center;
+    color: #85758d;
+    text-decoration: none;
+    bottom: 10px;
+    padding-left: 28px;
+    padding-top: 15px;
+}
+#foot2 {
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    width: 370px;
+    display: block;
+}
+#content p a {
+    text-decoration: none;
+}
